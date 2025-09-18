@@ -32,7 +32,7 @@ This repository contains a collection of practical projects focused on using **S
 * Real-time alert monitoring.
 * Comprehensive logging of network events.
 
-[View Project](./Project-1-Snort-IDS-IPS-Implementation)
+[View Project](https://github.com/00112244/snort_works/blob/main/Snort-IDS-IPS-Implementation-and-Configuration.md)
 
 ---
 
