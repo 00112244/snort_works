@@ -63,3 +63,23 @@ This repository contains a collection of practical projects focused on using **S
 
 ---
 
+Here’s the **GitHub-style project entry** for **SQL Injection Detection with Snort** in the same format:
+
+---
+
+### 4. SQL Injection Detection with Snort
+**Description:** Demonstrates how to configure Snort to detect SQL injection (SQLi) attacks on web applications by inspecting HTTP requests and generating alerts for malicious payloads.
+**Key Features:**
+* Writing and tuning custom Snort rules for SQL injection detection.
+* Real-time alerting on HTTP-based attack attempts.
+* Log collection and analysis for investigating web application threats.
+* Verification of detections using controlled lab tests with tools like sqlmap.
+**Highlights:**
+* Successfully detected common SQL injection techniques (tautology, UNION SELECT, comment injection).
+* Showcased effective rule tuning to reduce false positives.
+* Provided practical SOC skills for web application security monitoring.
+
+[View Project](https://github.com/00112244/snort_works/blob/main/SQL-Injection-Detection-with-Snort.md)
+
+---
+
