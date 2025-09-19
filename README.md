@@ -46,3 +46,20 @@ This repository contains a collection of practical projects focused on using **S
 
 ---
 
+
+### 3. Detecting Nmap Scans with Snort
+**Description:** Demonstrates how to configure Snort to detect various Nmap reconnaissance scans, including SYN, XMAS, NULL, and UDP scans, providing early visibility into network probing activity.
+**Key Features:**
+* Writing and tuning custom Snort rules for Nmap scan detection.
+* Real-time alerting on reconnaissance attempts.
+* Log collection and analysis for investigating suspicious scanning activity.
+* Verification of detection using controlled lab tests.
+**Highlights:**
+* Successfully detected SYN, XMAS, NULL, and UDP scans.
+* Showcased effective thresholding and rule tuning to reduce false positives.
+* Provided foundational SOC skills for network reconnaissance detection.
+
+[View Project](https://github.com/00112244/snort_works/blob/main/Detecting-Nmap-Scans-with-Snort.md)
+
+---
+
