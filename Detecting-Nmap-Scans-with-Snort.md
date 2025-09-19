@@ -262,11 +262,6 @@ Only perform scanning and detection tests within lab environments and on systems
 
 ---
 
-## Conclusion
-
-Here’s a professional and concise conclusion you can add to the end of the Nmap scan detection project:
-
----
 
 ## Conclusion
 
