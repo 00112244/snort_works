@@ -1,5 +1,5 @@
 # Snort IDS/IPS Projects
-![Snort-Projects](snort_logo_icon_167981.png)
+![Snort-Projects](snort.svg)
 
 This repository contains a collection of practical projects focused on using **Snort** as an Intrusion Detection and Prevention System (IDS/IPS) for monitoring network traffic, detecting threats, and preventing malicious activities. Each project simulates real-world use cases relevant to SOC operations, intrusion detection, and incident response.
 
