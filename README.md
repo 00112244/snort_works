@@ -63,10 +63,6 @@ This repository contains a collection of practical projects focused on using **S
 
 ---
 
-Here’s the **GitHub-style project entry** for **SQL Injection Detection with Snort** in the same format:
-
----
-
 ### 4. SQL Injection Detection with Snort
 **Description:** Demonstrates how to configure Snort to detect SQL injection (SQLi) attacks on web applications by inspecting HTTP requests and generating alerts for malicious payloads.
 **Key Features:**
